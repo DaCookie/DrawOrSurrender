@@ -18,13 +18,7 @@ namespace DrawOrSurrender
         public void DisplayPlayerInfos()
         {
             Console.WriteLine($"{name.ToUpper()} STATS");
-            Console.WriteLine($"Insanity: {insanity}");
-
-            if(insanity > 3)
-            {
-                Console.WriteLine("");
-                Console.WriteLine($"{name} is insane...");
-            }
+            Console.WriteLine("No stats to display");
         }
 
         /// <summary>

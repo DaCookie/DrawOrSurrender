@@ -49,8 +49,6 @@
     <Compile Include="ListExtension.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="PlayerAction.cs" />
-    <Compile Include="PlayerAction_Surrender.cs" />
-    <Compile Include="PlayerAction_Draw.cs" />
     <Compile Include="PlayerController.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

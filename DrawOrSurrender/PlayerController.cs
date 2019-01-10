@@ -16,8 +16,8 @@ namespace DrawOrSurrender
         /// </summary>
         public PlayerController()
         {
-            AddAction(new PlayerAction_Draw());
-            AddAction(new PlayerAction_Surrender());
+            //AddAction(new PlayerAction_Draw());
+            //AddAction(new PlayerAction_Surrender());
         }
 
         /// <summary>
